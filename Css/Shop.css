@@ -866,7 +866,7 @@ button.info-more {
     }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 395px) {
     .my-book {
         width: 45%;
         display: block;

@@ -538,7 +538,7 @@
 
 
 
-@media (max-width: 380px){
+@media (max-width: 395px){
     button#menu-an {
         left: 200px;
     }
@@ -593,7 +593,7 @@
 
 
 
-@media (max-width: 380px){
+@media (max-width: 395px){
     .login ul li {
     display: inline-block;
     padding-right: 8px;
