@@ -521,7 +521,17 @@
 
 
 
+@media (max-width: 413px ) {
+    .info-author button {
+        width: 103px;
+        height: 33px;
+        position: relative;
+        top: 10%;
+        transition: all 0.5s;
+        margin-left: 10px;
+    }
 
+}
 
     
 
@@ -582,17 +592,7 @@
 
 
 
-@media (max-width: 413px ) {
-    .info-author button {
-        width: 103px;
-        height: 33px;
-        position: relative;
-        top: 10%;
-        transition: all 0.5s;
-        margin-left: 10px;
-    }
 
-}
 @media (max-width: 380px){
     .login ul li {
     display: inline-block;
@@ -611,6 +611,34 @@
         right: 0px;
         bottom: 9px;
         z-index: 99;
+    }
+
+    .login ul li {
+        display: inline-block;
+        padding-right: 1px;
+        padding-left: 1px;
+    }
+
+    .title-banner h1 {
+        font-size: 18px;
+        position: absolute;
+        top: -79px;
+    }
+
+    .title-banner button {
+        left: -26%;
+        bottom: -26%;
+    }
+
+    .thumnail-newrealese {    
+        margin-left: 12px;
+        margin-right: 0px;
+    }
+
+    .thumbnail-readdown {
+     
+        margin-left: 10px;
+       
     }
 }
 
